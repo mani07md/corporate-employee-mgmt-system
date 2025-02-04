@@ -8,6 +8,10 @@ public class CorporateEmployeeMgmtSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CorporateEmployeeMgmtSystemApplication.class, args);
+		/* new program 
+		 * manikanta velpuri
+		 * text commands for project
+		 */
 	}
 
 }
