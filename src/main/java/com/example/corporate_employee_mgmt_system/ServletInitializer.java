@@ -8,6 +8,8 @@ public class ServletInitializer extends SpringBootServletInitializer {
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(CorporateEmployeeMgmtSystemApplication.class);
+		/* new commnetes are added
+			test is updated*/
 	}
 
 }
